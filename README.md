@@ -1,7 +1,8 @@
 ## Lab 3
 
+
+## lab-03.js
 ```
-##Lab-03.js
 // TODO Part 11: Import reverseString() and concatenateString()
 // functions from lab-03-module.js module using require()
 
